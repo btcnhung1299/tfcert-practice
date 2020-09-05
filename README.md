@@ -7,17 +7,22 @@
   - [x] Conv2D
   - [x] Pooling
 - [x] Dataset
-  - [x] Tensorflow dataset
-  - [x] Keras dataset
-  - [x] Real-world dataset
+  - [x] Tensorflow dataset (in 
+          [MNIST](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_MNIST.ipynb), 
+          [Alpha/Digits](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_DigitAlpha.ipynb)
+          )
+  - [x] Keras dataset (in 
+          [MNIST](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_MNIST.ipynb)
+          )
+  - [x] Real-world dataset (in [Traffic Signs](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_TrafficSign.ipynb))
 - [ ] Image Augmentation
-  - [x] ImageDataGenerator
+  - [x] ImageDataGenerator (in [Traffic Signs](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_TrafficSign.ipynb))
   - [ ] ImageDataGenerator based on directory structures
 
 - Resources:
-  - MNIST
-  - Alpha/Digits Classification
-  - Traffic Sign Classification
+  - [MNIST or Digits Classification](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_MNIST.ipynb)
+  - [Alpha/Digits Classification](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_DigitAlpha.ipynb)
+  - [Traffic Sign Classification](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_TrafficSign.ipynb)
 
 ## 2. NLP
 
