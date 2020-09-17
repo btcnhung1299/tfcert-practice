@@ -2,10 +2,6 @@
 
 ## 1. Image Classification
 
-- [x] Layers
-  - [x] Flatten
-  - [x] Conv2D
-  - [x] Pooling
 - [x] Dataset
   - [x] Tensorflow dataset (in 
           [MNIST](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_MNIST.ipynb), 
@@ -15,14 +11,13 @@
           [MNIST](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_MNIST.ipynb)
           )
   - [x] Real-world dataset (in [Traffic Signs](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_TrafficSign.ipynb))
-- [ ] Image Augmentation
-  - [x] ImageDataGenerator (in [Traffic Signs](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_TrafficSign.ipynb))
-  - [ ] ImageDataGenerator based on directory structures
+- [x] ImageDataGenerarator
+  - [x] Raw (in [Traffic Signs](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_TrafficSign.ipynb))
+  - [x] Directory-based (in [Horse vs. People](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_HorseVsPeople.ipynb), [Cat vs. Dog](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_CatVsDog.ipynb))
+- [x] Transfer Learning
+  - [x] Keras Model Instance (in [Horse vs. People](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_HorseVsPeople.ipynb))
+  - [x] TF-Hub (in [Cat vs. Dog](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_CatVsDog.ipynb))
 
-- Resources:
-  - [MNIST or Digits Classification](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_MNIST.ipynb)
-  - [Alpha/Digits Classification](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_DigitAlpha.ipynb)
-  - [Traffic Sign Classification](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_TrafficSign.ipynb)
 
 ## 2. NLP
 
