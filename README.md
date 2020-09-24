@@ -5,8 +5,7 @@
 - [x] Dataset
   - [x] Tensorflow dataset (in 
           [MNIST](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_MNIST.ipynb), 
-          [Alpha/Digits](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_DigitAlpha.ipynb)
-          )
+          [Alpha/Digits](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_DigitAlpha.ipynb))
   - [x] Keras dataset (in 
           [MNIST](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_MNIST.ipynb)
           )
@@ -14,22 +13,17 @@
 - [x] ImageDataGenerarator
   - [x] Raw (in [Traffic Signs](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_TrafficSign.ipynb))
   - [x] Directory-based (in [Horse vs. People](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_HorseVsPeople.ipynb), [Cat vs. Dog](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_CatVsDog.ipynb))
-- [x] Transfer Learning
+- [x] Transfer Learning (feature-based)
   - [x] Keras Model Instance (in [Horse vs. People](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_HorseVsPeople.ipynb))
   - [x] TF-Hub (in [Cat vs. Dog](https://github.com/btcnhung1299/tf-practice/blob/master/IMG_CatVsDog.ipynb))
 
 
 ## 2. NLP
 
-- [ ] Layers
-  - [ ] RNN
-  - [ ] LSTM
-  - [ ] GRU
-  - [ ] CNN
-- [ ] Word Embedding
-- [ ] Text Classification
-- [ ] Text Generation
-
+- [x] Text Classification (in [Sentiment Analysis](https://github.com/btcnhung1299/tf-practice/blob/master/TXT_SentimentAnalysis.ipynb))
+- [x] Text Generation (in [Script Generating](https://github.com/btcnhung1299/tf-practice/blob/master/TXT_ScriptGenerating_CharLevel.ipynb))
+- [x] Transfer Learning
+  - [x] TF-Hub (in [Sentiment Analysis](https://github.com/btcnhung1299/tf-practice/blob/master/TXT_SentimentAnalysis.ipynb))
 
 ## 3. Time Series
 
