@@ -20,7 +20,7 @@
 
 ## 2. NLP
 
-- [x] Text Classification (in [Sentiment Analysis](https://github.com/btcnhung1299/tf-practice/blob/master/TXT_SentimentAnalysis.ipynb))
+- [x] Text Classification (in [Sarcasm Detection](https://github.com/btcnhung1299/tf-practice/blob/master/TXT_SarcarsmDetection.ipynb), [Sentiment Analysis](https://github.com/btcnhung1299/tf-practice/blob/master/TXT_SentimentAnalysis.ipynb))
 - [x] Text Generation (in [Script Generating](https://github.com/btcnhung1299/tf-practice/blob/master/TXT_ScriptGenerating_CharLevel.ipynb))
 - [x] Transfer Learning
   - [x] TF-Hub (in [Sentiment Analysis](https://github.com/btcnhung1299/tf-practice/blob/master/TXT_SentimentAnalysis.ipynb))
