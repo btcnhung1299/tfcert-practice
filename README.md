@@ -31,7 +31,7 @@
 
 ---
 
-So, it's Septembert 29th now. I'm taking the exam tomorrow. My biggest gratitude goes to thầy Ngọc, bạn Thành trợ giảng and other "classmates" for helping me revising for this exam.
+So, it's September 29th now. I'm taking the exam tomorrow. My biggest gratitude goes to thầy Ngọc, bạn Thành trợ giảng and other "classmates" for helping me revising for this exam.
 
 Just a few notes to myself:
 - Stay calm.
